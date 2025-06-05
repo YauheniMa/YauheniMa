@@ -10,8 +10,8 @@
 
 - Язык программирования: Python  
 - Библиотеки и фреймворки:
-  - Работа с данными: pandas, numpy, scipy
-  - Визуализация: matplotlib, seaborn, plotly
+  - Работа с данными: pandas, numpy
+  - Визуализация: matplotlib, seaborn
   - Машинное обучение: scikit-learn, xgboost, lightgbm, tensorflow (на базовом уровне)
   - Обработка текста: nltk, pymorphy2, re
   - Веб-скрейпинг: requests, BeautifulSoup
